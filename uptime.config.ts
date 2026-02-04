@@ -10,8 +10,8 @@ const pageConfig: PageConfig = {
   title: "AcoFork 的状态页",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://github.com/afoim', label: 'GitHub' },
-    { link: 'https://blog.acofork.com/', label: '博客' },
+    { link: 'https://github.com/afingpo', label: 'GitHub' },
+    { link: 'https://afingpo.top/', label: '博客' },
   ],
 }
 
