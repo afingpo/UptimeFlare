@@ -233,8 +233,8 @@ const workerConfig: WorkerConfig = {
       // [Required] payload to be sent
       // $MSG will be replaced with the human-readable notification message
       payload: {
-        "from": "系统状态更新 <uptimeflare@update.2x.nz>",
-        "to": ["acofork@foxmail.com"],
+        "from": "系统状态更新 <uptimeflare@465332.xyz>",
+        "to": ["afipo_han@outlook.com"],
         "subject": "UptimeFlare 状态更新",
         "text": "$MSG"
       },
@@ -290,8 +290,8 @@ const workerConfig: WorkerConfig = {
           `;
 
           const resendPayload = {
-            from: "系统状态更新 <uptimeflare@update.2x.nz>",
-            to: ["acofork@foxmail.com"],
+            from: "系统状态更新 <uptimeflare@465332.xyz>",
+            to: ["afipo_han@outlook.com"],
             subject: subject,
             html: htmlContent,
           };
